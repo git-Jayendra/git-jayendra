@@ -16,36 +16,26 @@ Here are some ideas to get you started:
 -->
 # Hey there 👋
 
-I'm **Jayendra Pandey**, a Full Stack Developer, C++ learner, and Computer Science student from India.
+### git-jayendra/README.md
 
-I enjoy understanding how software actually works under the hood—from C++ internals and JavaScript engines to operating systems, networking, and compilers. I love building projects while continuously improving my problem-solving and development skills.
+I'm **Jayendra Pandey**, a **Full Stack Developer**, **C++ Learner**, and **Computer Science Student** from **India**.
 
-> **"Skill is the output of daily input."**
+I enjoy exploring how software works behind the scenes—from C++ internals and JavaScript engines to operating systems, networking, and compilers. Alongside learning, I love building projects that help me grow as a developer.
 
----
-
-## Tech Stack
-
-- C++, C, JavaScript, Python, Java
-- HTML, CSS, SCSS, SQL
-- React, Next.js, Tailwind CSS
-- Node.js, Express.js, MongoDB
+> 💭 **"Skill is the output of daily input."**
 
 ---
 
-## Tools
+## 💻 Tech & Tools
 
-- Git & GitHub
-- VS Code
-- Cursor
-- Figma
-- Canva
-- Adobe Photoshop
-- Filmora
+- **Languages:** C++, C, JavaScript, Python, Java
+- **Frontend:** HTML, CSS, SCSS, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, SQL
+- **Tools:** Git, GitHub, VS Code, Cursor, Figma, Canva, Photoshop, Filmora
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Deep C++
 - JavaScript Internals
@@ -56,17 +46,16 @@ I enjoy understanding how software actually works under the hood—from C++ inte
 
 ---
 
-## A Bit About Me
+## 🚀 A Bit About Me
 
-- 💻 Started coding in **2023**
-- ⚙️ Interested in programming, compiler internals, and how code executes behind the scenes
-- 🚀 Working toward becoming a Software Engineer
-- 📖 Always learning, always building
-- ✨ **Skill is the output of daily input.**
+- 💻 Started my coding journey in **2023**
+- ⚙️ Passionate about programming, compiler internals, and understanding how code executes
+- 🎯 Working towards becoming a **Software Engineer**
+- 🌱 Learning something new every day
 
 ---
 
-## Connect
+## 📫 Connect
 
-- LinkedIn → https://www.linkedin.com/in/jayendra-pandey/
-- Email → jaayendraa@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/jayendra-pandey/
+- 📧 **Email:** jaayendraa@gmail.com
