@@ -37,12 +37,15 @@ I enjoy exploring how software works behind the scenes—from C++ internals and 
 
 ## 📚 Currently Learning
 
+- Full Stack Development
+- Data Structures & Algorithms
+- Generative AI
 - Deep C++
 - JavaScript Internals
-- Data Structures & Algorithms
+- Python
 - Operating Systems
 - Computer Networks
-- Full Stack Development
+
 
 ---
 
